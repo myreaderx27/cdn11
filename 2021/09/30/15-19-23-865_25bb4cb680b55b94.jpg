@@ -1,0 +1,2176 @@
+
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1623614868_all.css" />
+
+
+
+<script src="https://kit.fontawesome.com/b9c8f364cc.js" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1609928171.js" charset="utf-8"></script>
+
+
+<script>
+if (jQuery.cookie('cc_cookie_accept') == "cc_cookie_accept") {
+var s = document.createElement("script");
+s.src = "https://www.googletagmanager.com/gtag/js?id=UA-35898912-1";
+s.async = 1
+m = document.getElementsByTagName("script")[0]
+m.parentNode.insertBefore(s, m);
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);};
+gtag('js', new Date());
+gtag('config', 'UA-35898912-1');
+
+
+}</script>
+		<meta property="og:title" content="European Space Agency">
+<title>European Space Agency</title>					<meta name="description" content="The European Space Agency portal features the latest news in space exploration, human spaceflight, launchers, telecommunications, navigation, monitoring and space science. ">
+		<meta property="og:description" content="The European Space Agency portal features the latest news in space exploration, human spaceflight, launchers, telecommunications, navigation, monitoring and space science. ">
+				<meta name="keywords" content="European Space Agency, Moon, Mars, sun, space exploration, probes, missions, satellites, launchers, international space station, ISS, telecommunications, earth observation, navigation, astronauts, solar system, universe, remote sensing, space news, ESA, environment, monitoring, astronomy, Ariane, rocket, Galileo, comet, education, Venus ">
+			<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header agency">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'agency';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+
+ 
+						<!-- # obj in slider 4 -->		<section class="feature slider top-slider">
+	<div class="flexslider"><ul class="slides">
+								<li>
+				
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+
+		
+<div class="feature-item story exploring-discovering">
+<figure class="thumbnail">
+	<header class="entry">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Mercury ahead! </h3>
+
+<div class="meta">
+			<span>28/09/2021</span>
+		<span>5317 <small>views</small></span>
+			<span>74 <small>likes</small></span>
+		
+	</div>
+		<a class="cta" href="/Science_Exploration/Space_Science/BepiColombo/Mercury_ahead!">
+			<label>Read</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+		</a>
+	</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/09/bepicolombo_first_mercury_flyby/23478785-1-eng-GB/BepiColombo_first_Mercury_flyby_pillars.jpg" alt="BepiColombo first Mercury flyby">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+
+ 
+		
+<div class="feature-item story agency">
+<figure class="thumbnail">
+	<header class="entry">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<span class="pillar">Agency</span>
+
+<h3 class="heading">ESA Open Day on our Web TV</h3>
+
+<div class="meta">
+			<span>30/09/2021</span>
+		<span>197 <small>views</small></span>
+			<span>8 <small>likes</small></span>
+		
+	</div>
+		<a class="cta" href="/About_Us/ESTEC/Open_Day_2021/ESA_Open_Day_on_our_Web_TV">
+			<label>Read</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+		</a>
+	</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/05/jupiter_antenna_that_came_in_from_the_cold/23325653-1-eng-GB/Jupiter_antenna_that_came_in_from_the_cold_pillars.jpg" alt="Jupiter antenna that came in from the cold">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+
+		
+<div class="feature-item story designing-operating">
+<figure class="thumbnail">
+	<header class="entry">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Ariane 6 launch complex inaugurated at Europe’s Spaceport</h3>
+
+<div class="meta">
+			<span>28/09/2021</span>
+		<span>2672 <small>views</small></span>
+			<span>38 <small>likes</small></span>
+		
+	</div>
+		<a class="cta" href="/Enabling_Support/Space_Transportation/Europe_s_Spaceport/Ariane_6_launch_complex_inaugurated_at_Europe_s_Spaceport">
+			<label>Read</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+		</a>
+	</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/09/under_the_stars_on_the_ariane_6_launch_pad/23483184-1-eng-GB/Under_the_stars_on_the_Ariane_6_launch_pad_pillars.png" alt="Under the stars on the Ariane 6 launch pad at Europe's Spaceport in French Guiana">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+
+ 
+		
+<div class="feature-item story agency">
+<figure class="thumbnail">
+	<header class="entry">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<span class="pillar">Agency</span>
+
+<h3 class="heading">Introducing ESA Agenda 2025 </h3>
+
+<div class="meta">
+			<span>07/04/2021</span>
+		<span>18522 <small>views</small></span>
+			<span>167 <small>likes</small></span>
+		
+	</div>
+		<a class="cta" href="/About_Us/Introducing_ESA_Agenda_2025">
+			<label>Read</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+		</a>
+	</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/03/josef_aschbacher_is_new_esa_director_general4/23186662-2-eng-GB/Josef_Aschbacher_is_new_ESA_Director_General_pillars.jpg" alt="">
+</figure>
+</div>
+</li>
+						
+						</ul></div>
+	</section>							
+<section id="pillar-gateway" class="pillar-gateway">
+<div class="pillar-gateway--inner">
+	
+				
+			
+				
+				<div class="pillar-gateway--item exploring-discovering">
+			<div class="pillar-toggle">
+				<span class="pillar">Science & Exploration</span>
+				<button class="pillar-toggle--arrow"><i class="far fa-angle-down"></i></button>
+			</div>
+						<div class="pillar-gateway--entries">
+			
+																													 
+												
+																																								
+													
+					<a href="/Science_Exploration/Human_and_Robotic_Exploration/Alpha" class="round-thumbnail">
+						<span class="entry">Alpha</span>
+						<div class="dimmer"></div>
+						
+																								
+
+
+	
+	
+
+	
+										
+						
+																	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/04/alpha_mission/23269716-1-eng-GB/Alpha_mission_card_medium.jpg" alt="">
+					</a>
+										
+																																						 
+												
+																																								
+													
+					<a href="/Science_Exploration/Space_Science/Webb/James_Webb_Space_Telescope_launch_kit" class="round-thumbnail">
+						<span class="entry">Webb</span>
+						<div class="dimmer"></div>
+						
+																								
+
+
+	
+	
+
+	
+										
+						
+																	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/03/artist_s_impression_of_the_james_webb_space_telescope/23231075-5-eng-GB/Artist_s_impression_of_the_James_Webb_Space_Telescope_card_medium.jpg" alt="">
+					</a>
+										
+											 
+			</div>
+			
+			<a class="btn" href="/Science_Exploration">More</a>
+		</div>
+		 
+	 	
+				
+			
+				
+				<div class="pillar-gateway--item monitoring-safeguarding">
+			<div class="pillar-toggle">
+				<span class="pillar">Safety & Security</span>
+				<button class="pillar-toggle--arrow"><i class="far fa-angle-down"></i></button>
+			</div>
+						<div class="pillar-gateway--entries">
+			
+																													 
+												
+																																								
+													
+					<a href="/Enabling_Support/Operations/Ground_Systems_Engineering/Flight_Dynamics" class="round-thumbnail">
+						<span class="entry">Flight Dynamics</span>
+						<div class="dimmer"></div>
+						
+																								
+
+
+	
+	
+
+	
+										
+						
+																	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/11/integral_s_orbits_2002_17/17260059-1-eng-GB/Integral_s_orbits_2002_17_card_medium.jpg" alt="Integral’s orbits 2002–17">
+					</a>
+										
+																																						 
+												
+																																								
+													
+					<a href="/Safety_Security/Risky_asteroids" class="round-thumbnail">
+						<span class="entry">Asteroids</span>
+						<div class="dimmer"></div>
+						
+																								
+
+
+	
+	
+
+	
+										
+						
+																	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2015/06/hera_networking_with_cubesats/15477210-17-eng-GB/Hera_networking_with_CubeSats_card_medium.jpg" alt="Hera networking with CubeSats">
+					</a>
+										
+											 
+			</div>
+			
+			<a class="btn" href="/Safety_Security">More</a>
+		</div>
+		 
+	 	
+				
+			
+				
+				<div class="pillar-gateway--item connecting-benefiting">
+			<div class="pillar-toggle">
+				<span class="pillar">Applications</span>
+				<button class="pillar-toggle--arrow"><i class="far fa-angle-down"></i></button>
+			</div>
+						<div class="pillar-gateway--entries">
+			
+																													 
+												
+																																								
+													
+					<a href="/Applications/Observing_the_Earth/ESA_for_Earth" class="round-thumbnail">
+						<span class="entry">ESA for Earth</span>
+						<div class="dimmer"></div>
+						
+																								
+
+
+	
+	
+
+	
+										
+						
+																	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/10/earth_science/21133752-1-eng-GB/Earth_science_card_medium.jpg" alt="">
+					</a>
+										
+																																						 
+												
+																																								
+													
+					<a href="/Applications/Telecommunications_Integrated_Applications/Partnership2" class="round-thumbnail">
+						<span class="entry">Partnership</span>
+						<div class="dimmer"></div>
+						
+																								
+
+
+	
+	
+
+	
+										
+						
+																	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2015/07/eutelsat_quantum/15502627-1-eng-GB/Eutelsat_Quantum_card_medium.jpg" alt="Eutelsat Quantum">
+					</a>
+										
+											 
+			</div>
+			
+			<a class="btn" href="/Applications">More</a>
+		</div>
+		 
+	 	
+				
+			
+				
+				<div class="pillar-gateway--item designing-operating">
+			<div class="pillar-toggle">
+				<span class="pillar">Enabling & Support</span>
+				<button class="pillar-toggle--arrow"><i class="far fa-angle-down"></i></button>
+			</div>
+						<div class="pillar-gateway--entries">
+			
+																													 
+												
+																																								
+													
+					<a href="/Enabling_Support/Space_Engineering_Technology/Technology_CubeSats" class="round-thumbnail">
+						<span class="entry">CubeSats</span>
+						<div class="dimmer"></div>
+						
+																								
+
+
+	
+	
+
+	
+										
+						
+																	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2015/01/picasso_cubesat2/15211126-1-eng-GB/PICASSO_CubeSat_card_medium.jpg" alt="PICASSO CubeSat">
+					</a>
+										
+																																						 
+												
+																																								
+													
+					<a href="/Enabling_Support/Space_Transportation/Access_to_space_and_back" class="round-thumbnail">
+						<span class="entry">Access to space</span>
+						<div class="dimmer"></div>
+						
+																								
+
+
+	
+	
+
+	
+										
+						
+																	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/10/space_transportation/21120663-1-eng-GB/Space_transportation_card_medium.jpg" alt="">
+					</a>
+										
+											 
+			</div>
+			
+			<a class="btn" href="/Enabling_Support">More</a>
+		</div>
+		 
+	 
+</div>
+</section>
+							   
+
+				
+
+
+
+
+											
+
+	 
+
+
+						
+				 
+							
+				 
+							
+							 
+							
+				
+				 
+						
+ 
+
+<section class="cards filtered">
+	<div class="filter-wrapper">
+		<h2 class="heading section-heading">In the spotlight</h2>
+		<div class="filters button-group">
+			<button data-filter="" class="btn active">All</button>
+			<button data-filter=".story" class="btn">Stories</button>
+			<button data-filter=".video" class="btn">Videos</button>
+			<button data-filter=".image" class="btn">Images</button>
+		</div>
+	</div>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+					
+ 
+		
+ 
+		
+					
+			
+ 
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	<div class="grid-item highlight">
+<a class="card highlight agency" href="/About_Us/Careers_at_ESA">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Highlight</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Agency</span>
+			<h3 class="heading">Careers at ESA</h3>
+			
+		</header>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/03/careers_at_esa/23191522-3-eng-GB/Careers_at_ESA_card_full.jpg" alt="">
+		<div class="cta">
+			<label>Open</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Open">
+		</div>
+	</figure>
+</a>
+</div>
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1632989100">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Aerosols_released_from_Australian_bushfires_triggers_algal_blooms">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/01/smoke_and_flames_in_australia/21788537-1-eng-GB/Smoke_and_flames_in_Australia_card_medium.jpg" alt="Smoke and flames in Australia">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Aerosols released from Australian bushfires triggers algal &#8230;</h3>  
+
+<div class="meta">
+			<span>30/09/2021</span>
+		<span>823 <small>views</small></span>
+			<span>30 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1632985200">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2021/09/Cosmic_kit">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Cosmic kit</h3>  
+
+<div class="meta">
+			<span>30/09/2021</span>
+		<span>704 <small>views</small></span>
+			<span>43 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/09/cosmic_kit/23485862-1-eng-GB/Cosmic_kit_card_full.jpg" alt="ESA astronaut Matthias Maurer wearing the SpaceX spacesuit">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1632902400">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Euclid_telescope_ready_for_extreme_space_environment">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/09/euclid_optical_performance_test/23481767-1-eng-GB/Euclid_optical_performance_test_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Euclid telescope ready for extreme space environment</h3>  
+
+<div class="meta">
+			<span>29/09/2021</span>
+		<span>2568 <small>views</small></span>
+			<span>49 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1632839400">
+<a class="card video exploring-discovering popup" href="/ESA_Multimedia/Videos/2021/09/Node_3_Space_Station_360_in_French_with_English_subtitles_available">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:03:19
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2021/09/node_3_space_station_360_in_french_with_english_subtitles_available/23446104-2-eng-GB/Node_3_Space_Station_360_in_French_with_English_subtitles_available_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Node 3 | Space Station 360 (in French with English subtitle&#8230;</h3>  
+
+<div class="meta">
+			<span>28/09/2021</span>
+		<span>1474 <small>views</small></span>
+			<span>41 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1632823200">
+<a class="card story designing-operating" href="/Enabling_Support/Preparing_for_the_Future/Space_for_Earth/Space_for_our_Planet_Space_Solutions_for_a_Sustainable_World">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/09/space_for_our_planet_space_solutions_for_a_sustainable_world/23481880-1-eng-GB/Space_for_our_Planet_Space_Solutions_for_a_Sustainable_World_card_medium.gif" alt="Space for our Planet: Space Solutions for a Sustainable World">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Space for our Planet: Space Solutions for a Sustainable Wor&#8230;</h3>  
+
+<div class="meta">
+			<span>28/09/2021</span>
+		<span>1273 <small>views</small></span>
+			<span>66 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1632738600">
+<a class="card story designing-operating" href="/Enabling_Support/Space_Transportation/Microgravity_on_demand_with_Earth_return_through_ESA_s_Boost">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/09/space_forge_commercial_space_transportation_service/23478207-1-eng-GB/Space_Forge_commercial_space_transportation_service_card_medium.jpg" alt="Space Forge supported by ESA's Boost! programme will offer a commercial space transportation service from 2022">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Microgravity on demand with Earth return through ESA’s Boos&#8230;</h3>  
+
+<div class="meta">
+			<span>27/09/2021</span>
+		<span>2434 <small>views</small></span>
+			<span>56 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+					
+
+
+
+
+		
+	
+					
+						
+ 
+		
+	
+<div class="grid-item video" data-date="1632729600">
+<a class="card video agency popup" href="/ESA_Multimedia/Videos/2021/09/ESA_Open_Day_2021">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:01:09
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2021/09/esa_open_day_2021/23477724-1-eng-GB/ESA_Open_Day_2021_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Agency</span>
+
+<h3 class="heading">ESA Open Day 2021 </h3>  
+
+<div class="meta">
+			<span>27/09/2021</span>
+		<span>1905 <small>views</small></span>
+			<span>63 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1632489000">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2021/09/For_reasons_by_Vivaldi">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">For reasons by Vivaldi </h3>  
+
+<div class="meta">
+			<span>24/09/2021</span>
+		<span>1309 <small>views</small></span>
+			<span>48 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/09/for_reasons_by_vivaldi/23475928-1-eng-GB/For_reasons_by_Vivaldi_card_full.jpg" alt="">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+				<div class="grid-item story image video"> 
+<a class="card more" href="/(archive)/0">
+	<div class="outline">
+		<h3 class="heading">More items</h3>
+	</div>
+</a>
+</div>
+	</div>
+</section>
+									
+	<section class="feature">
+		
+
+
+
+
+
+	  		
+	
+					
+						
+				
+	
+	
+	
+<div class="feature-item video exploring-discovering">
+<figure class="thumbnail">
+	<header class="entry">
+		<div class="entry-info">
+			<span class="category">Video</span>
+		</div>
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">BepiColombo’s close Venus encounter</h3>
+
+<div class="meta">
+			<span>12/08/2021</span>
+		<span>11348 <small>views</small></span>
+			<span>237 <small>likes</small></span>
+		
+	</div>
+		<a class="cta popup" href="/ESA_Multimedia/Videos/2021/08/BepiColombo_s_close_Venus_encounter">
+			<label>Play</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+		</a>
+	</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2021/08/bepicolombo_s_close_venus_encounter/23428204-1-eng-GB/BepiColombo_s_close_Venus_encounter_pillars.jpg" alt="">
+</figure>
+</div>
+	</section>								
+	<section class="cards">
+					<h2 class="heading section-heading">Recommended</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+											
+												
+																			
+ 
+		
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1586448780">
+<a class="card focuson" href="/About_Us/Corporate_news/ESA_measures_for_hosted_meetings_and_visitors">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/04/information_for_all_visitors_to_esa_sites/21932843-1-eng-GB/Information_for_all_visitors_to_ESA_sites_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Information for all visitors to ESA sites</h3> 
+		<p class="subheading">Coronavirus measures for hosted meetings and visitors</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1571325900">
+<a class="card focuson" href="https://www.esa.int/ESA/Our_Missions">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/10/our_missions/21109953-1-eng-GB/Our_missions_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Our missions</h3> 
+		<p class="subheading">Discover our missions: past, present and future. </p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1616082180">
+<a class="card focuson" href="https://discover.esa.int/" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/03/discoveresa_cover_image/23194826-1-eng-GB/DiscoverESA_cover_image_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Discover ESA</h3> 
+		<p class="subheading">Explore the full range of ESA’s activities through a set of thematic journeys</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+											
+												
+																			
+ 
+		
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1571325660">
+<a class="card focuson" href="/About_Us/ESA_Publications/This_is_ESA">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/10/this_is_esa/21109855-1-eng-GB/This_is_ESA_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">This is ESA</h3> 
+		<p class="subheading">This is ESA is an illustrated guide to what ESA is and what we do. Now available in all Member State languages.</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1572357360">
+<a class="card focuson" href="http://blogs.esa.int/" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/10/esa_blog_navigator_link/21129844-2-eng-GB/ESA_blog_navigator_link_card_medium.jpg" alt="ESA blog navigator link">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">ESA Blog Navigator</h3> 
+		<p class="subheading">Check out all our active blogs - although update frequency can vary.</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+ 
+									
+	<section class="feature">
+		
+
+
+
+
+
+	  		
+	
+					
+						
+				
+	
+	
+	
+<div class="feature-item video exploring-discovering">
+<figure class="thumbnail">
+	<header class="entry">
+		<div class="entry-info">
+			<span class="category">Video</span>
+		</div>
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Moonlit timelapse</h3>
+
+<div class="meta">
+			<span>03/06/2021</span>
+		<span>2654 <small>views</small></span>
+			<span>59 <small>likes</small></span>
+		
+	</div>
+		<a class="cta popup" href="/ESA_Multimedia/Videos/2021/06/Moonlit_timelapse">
+			<label>Play</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+		</a>
+	</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2021/06/moonlit_timelapse/23336546-1-eng-GB/Moonlit_timelapse_pillars.png" alt="">
+</figure>
+</div>
+	</section>							
+
+<section class="cards">
+	<h2 class="heading section-heading">Trending</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="996066060">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/Where_is_the_International_Space_Station">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2011/02/international_space_station/17901087-2-eng-GB/International_Space_Station_card_medium.jpg" alt="International Space Station">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Where is the International Space Station?</h3>  
+
+<div class="meta">
+		<span>29583730 <small>views</small></span>
+			<span>45944 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1632819600">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/BepiColombo/Mercury_ahead!">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/09/bepicolombo_first_mercury_flyby/23478785-1-eng-GB/BepiColombo_first_Mercury_flyby_card_medium.jpg" alt="BepiColombo first Mercury flyby">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Mercury ahead! </h3>  
+
+<div class="meta">
+			<span>28/09/2021</span>
+		<span>5317 <small>views</small></span>
+			<span>74 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1632985200">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2021/09/Cosmic_kit">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Cosmic kit</h3>  
+
+<div class="meta">
+			<span>30/09/2021</span>
+		<span>704 <small>views</small></span>
+			<span>43 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/09/cosmic_kit/23485862-1-eng-GB/Cosmic_kit_card_full.jpg" alt="ESA astronaut Matthias Maurer wearing the SpaceX spacesuit">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1632989100">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Aerosols_released_from_Australian_bushfires_triggers_algal_blooms">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/01/smoke_and_flames_in_australia/21788537-1-eng-GB/Smoke_and_flames_in_Australia_card_medium.jpg" alt="Smoke and flames in Australia">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Aerosols released from Australian bushfires triggers algal &#8230;</h3>  
+
+<div class="meta">
+			<span>30/09/2021</span>
+		<span>823 <small>views</small></span>
+			<span>30 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1632902400">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Euclid_telescope_ready_for_extreme_space_environment">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/09/euclid_optical_performance_test/23481767-1-eng-GB/Euclid_optical_performance_test_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Euclid telescope ready for extreme space environment</h3>  
+
+<div class="meta">
+			<span>29/09/2021</span>
+		<span>2568 <small>views</small></span>
+			<span>49 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1632988800">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2021/09/The_spectrum_of_gravitational_waves">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">The spectrum of gravitational waves </h3>  
+
+<div class="meta">
+			<span>30/09/2021</span>
+		<span>601 <small>views</small></span>
+			<span>40 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/09/the_spectrum_of_gravitational_waves/23484065-1-eng-GB/The_spectrum_of_gravitational_waves_card_full.png" alt="">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+			</div>
+</section>
+							 
+			 
+
+		
+	
+		
+	 
+	
+	
+
+
+<section class="cards dark">
+	<h2 class="heading section-heading">Featured videos</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+		
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1632839400">
+<a class="card video exploring-discovering popup" href="/ESA_Multimedia/Videos/2021/09/Node_3_Space_Station_360_in_French_with_English_subtitles_available">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:03:19
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2021/09/node_3_space_station_360_in_french_with_english_subtitles_available/23446104-2-eng-GB/Node_3_Space_Station_360_in_French_with_English_subtitles_available_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Node 3 | Space Station 360 (in French with English subtitle&#8230;</h3>  
+
+<div class="meta">
+			<span>28/09/2021</span>
+		<span>1474 <small>views</small></span>
+			<span>41 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+					
+
+
+
+
+		
+	
+					
+						
+ 
+		
+	
+<div class="grid-item video" data-date="1632729600">
+<a class="card video agency popup" href="/ESA_Multimedia/Videos/2021/09/ESA_Open_Day_2021">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:01:09
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2021/09/esa_open_day_2021/23477724-1-eng-GB/ESA_Open_Day_2021_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Agency</span>
+
+<h3 class="heading">ESA Open Day 2021 </h3>  
+
+<div class="meta">
+			<span>27/09/2021</span>
+		<span>1905 <small>views</small></span>
+			<span>63 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+					
+
+
+
+
+		
+	
+					
+						
+ 
+		
+	
+<div class="grid-item video" data-date="1631881800">
+<a class="card video agency popup" href="/ESA_Multimedia/Videos/2021/09/Back_to_School_with_ESA_astronaut_Matthias_Maurer">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:04:32
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2021/09/back_to_school_with_esa_astronaut_matthias_maurer/23455431-1-eng-GB/Back_to_School_with_ESA_astronaut_Matthias_Maurer_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Agency</span>
+
+<h3 class="heading">Back to School with ESA astronaut Matthias Maurer</h3>  
+
+<div class="meta">
+			<span>17/09/2021</span>
+		<span>1133 <small>views</small></span>
+			<span>51 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1631796600">
+<a class="card video designing-operating popup" href="/ESA_Multimedia/Videos/2021/09/Soundblasting_a_satellite_time-lapse_of_testing">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:03:01
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2021/09/soundblasting_a_satellite_time-lapse_of_testing/23465122-2-eng-GB/Soundblasting_a_satellite_time-lapse_of_testing_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Soundblasting a satellite – time-lapse of testing</h3>  
+
+<div class="meta">
+			<span>16/09/2021</span>
+		<span>1333 <small>views</small></span>
+			<span>65 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1631268000">
+<a class="card video exploring-discovering popup" href="/ESA_Multimedia/Videos/2021/08/Selection_begins_ESA_s_next_astronauts">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:03:30
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2021/08/selection_begins_esa_s_next_astronauts/23417258-5-eng-GB/Selection_begins_ESA_s_next_astronauts_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Selection begins | ESA’s next astronauts</h3>  
+
+<div class="meta">
+			<span>10/09/2021</span>
+		<span>3891 <small>views</small></span>
+			<span>78 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+				<div class="grid-item">
+		<a class="card more" href="/ESA_Multimedia/Videos">  
+			<div class="outline">
+				<h3 class="heading">More items</h3>
+			</div>
+		</a>
+		</div>
+	</div>
+</section>
+								
+	<section class="cards">
+					<h2 class="heading section-heading">More</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+											
+												
+																			
+ 
+		
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1412850000">
+<a class="card focuson" href="/About_Us/Careers_at_ESA">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/10/careers/21093729-4-eng-GB/Careers_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Careers at ESA</h3> 
+		<p class="subheading">Work with a highly dedicated team, committed to ensuring that Europe continues to remain at the forefront of the space industry.</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+											
+												
+																			
+ 
+		
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1412849940">
+<a class="card focuson" href="/About_Us/Business_with_ESA">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/10/business_with_esa/21093947-3-eng-GB/Business_with_ESA_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Business with ESA</h3> 
+		<p class="subheading">ESA procurements aim to accomplish ESA space missions and to support the competitiveness of the European space industry.</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1557388860">
+<a class="card focuson" href="https://ideas.esa.int" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/04/open_space_innovation_platform/19349285-1-eng-GB/Open_Space_Innovation_Platform_card_medium.jpg" alt="Open Space Innovation Platform">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Open Space Innovation Platform</h3> 
+		<p class="subheading">Submit your ideas and change the future of space research, technology and applications.</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1557499680">
+<a class="card focuson" href="http://down2earth.esa.int" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/03/meteosat_third_generation/19292052-1-eng-GB/Meteosat_Third_Generation_card_medium.jpg" alt="Meteosat Third Generation">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Downstream Gateway</h3> 
+		<p class="subheading">Downstream opportunities, linking new and emerging business sectors with capabilities being developed in ESA programmes.</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+ 
+									
+
+		
+	
+		
+	 
+	
+	
+
+
+<section class="cards dark">
+	<h2 class="heading section-heading">Featured images</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+		
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1632985200">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2021/09/Cosmic_kit">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Cosmic kit</h3>  
+
+<div class="meta">
+			<span>30/09/2021</span>
+		<span>704 <small>views</small></span>
+			<span>43 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/09/cosmic_kit/23485862-1-eng-GB/Cosmic_kit_card_full.jpg" alt="ESA astronaut Matthias Maurer wearing the SpaceX spacesuit">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1632489000">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2021/09/For_reasons_by_Vivaldi">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">For reasons by Vivaldi </h3>  
+
+<div class="meta">
+			<span>24/09/2021</span>
+		<span>1309 <small>views</small></span>
+			<span>48 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/09/for_reasons_by_vivaldi/23475928-1-eng-GB/For_reasons_by_Vivaldi_card_full.jpg" alt="">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1632477600">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2021/09/Layered_history">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Layered history</h3>  
+
+<div class="meta">
+			<span>24/09/2021</span>
+		<span>2675 <small>views</small></span>
+			<span>145 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/09/layered_history/23475184-4-eng-GB/Layered_history_card_full.jpg" alt="Layered history">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1632305340">
+<a class="card image designing-operating popup" href="/ESA_Multimedia/Images/2021/09/Gloomy_moonscape_for_rover_test">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Gloomy moonscape for rover test</h3>  
+
+<div class="meta">
+			<span>22/09/2021</span>
+		<span>1832 <small>views</small></span>
+			<span>71 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/09/gloomy_moonscape_for_rover_test/23474214-1-eng-GB/Gloomy_moonscape_for_rover_test_card_full.jpg" alt="Gloomy moonscape for rover test">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1631717100">
+<a class="card image designing-operating popup" href="/ESA_Multimedia/Images/2021/09/Combined_tests_start_for_Ariane_6_at_Europe_s_Spaceport">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Combined tests start for Ariane 6 at Europe’s Spaceport</h3>  
+
+<div class="meta">
+			<span>15/09/2021</span>
+		<span>3796 <small>views</small></span>
+			<span>102 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/09/combined_tests_start_for_ariane_6_at_europe_s_spaceport/23462605-1-eng-GB/Combined_tests_start_for_Ariane_6_at_Europe_s_Spaceport_card_full.jpg" alt="Europe’s Spaceport in French Guiana is performing the first combined test in preparation for the inaugural flight of Ariane 6">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+				<div class="grid-item">
+		<a class="card more" href="/ESA_Multimedia/Images">  
+			<div class="outline">
+				<h3 class="heading">More items</h3>
+			</div>
+		</a>
+		</div>
+	</div>
+</section>
+	
+ 
+	<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fab fa-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>
